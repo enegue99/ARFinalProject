@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
   <Tracking>
+    <ImageTarget name="greenmarker" size="0.060000 0.082129" />
+    <ImageTarget name="carrotmarker" size="0.060000 0.081509" />
+    <ImageTarget name="marker2_cafe_card" size="0.050000 0.087591" />
     <ImageTarget name="jhu_logo" size="0.064500 0.086537" />
   </Tracking>
 </QCARConfig>
