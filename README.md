@@ -1,13 +1,17 @@
-# ARFinalProject
+# AR Final Project
 Physics Euducational App Created for AR Class Final Project
+-By Jingguo Liang and Yujin Park
+
+In this project, we created a physics educational app that tracks at most 2 markers to display at most 2 virtual particles (shown as spheres).
+We used Unity to develop this app, and used the following packages:
+- Vugoria Engine AR
+- BezierSolution developed by Yasirukla (https://github.com/yasirkula/UnityBezierSolution)
+
+The 2 markers used for object tracking in this project can be found under 
+
+
 
 markers can be found under reosurces....
-
-
-Used vuforia and bezierspline paackages for deependency
-- ver:
-
-https://github.com/yasirkula/UnityBezierSolution
 
 
 
