@@ -14,7 +14,7 @@ The scene we created for this project is located under Assets/Scenes/DoubleMarke
 
 The 2 markers used for object tracking in this project can be found in the Markers folder in the root of this project.
 
-The majority of the code we wrote is in Controller.cs script which is a component of the Controller game object.
+The majority of the code we wrote is in Controller.cs script which is a component of the Controller game object. (Located in Assets/Scripts/Controller.cs)
 Here are the main parts of the Controller.cs script:
 - Public functions to keep track of which markers are detected (hence which objects are being tracked) at a given time.
 - For each object, starting points of field lines are sampled throughout the surface of the sphere using Euler Angles.
